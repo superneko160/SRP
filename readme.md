@@ -7,7 +7,7 @@ SOLID原則のS。個々のモジュール（関数やクラス）は、ひと�
 
 アクターとは、UML、ユースケース図で使われるような棒人間を指す。
 
-![sample2-2.php](https://github.com/superneko160/SRP/blob/main/images/ec_system_uml.drawio.svg)
+![ECシステムのユースケース図](https://github.com/superneko160/SRP/blob/main/images/ec_system_uml.drawio.svg)
 
 クラスを「共通して利用できる汎用的な部品」と捉えてしまう者がいるが、それはシステムを作成時には弊害となるケースがある。  
 逆に**特定の目的に特化した変更に強い構造**にする、これがSRPである。
